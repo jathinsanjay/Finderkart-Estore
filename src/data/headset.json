@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Sony WH-1000XM4",
+      "price": 349,
+      "description": "The Sony WH-1000XM4 is a premium wireless headset that delivers exceptional sound quality and noise cancellation.",
+      "ratings": 4.7
+    },
+    {
+      "name": "Bose QuietComfort 35 II",
+      "price": 299,
+      "description": "The Bose QuietComfort 35 II provides excellent comfort and audio performance, making it a top choice for music enthusiasts.",
+      "ratings": 4.6
+    },
+    {
+      "name": "Jabra Elite 85t",
+      "price": 229,
+      "description": "The Jabra Elite 85t offers a comfortable fit, excellent sound quality, and effective noise cancellation.",
+      "ratings": 4.5
+    },
+    {
+      "name": "Apple AirPods Pro",
+      "price": 249,
+      "description": "The Apple AirPods Pro deliver a seamless wireless experience, active noise cancellation, and great audio quality.",
+      "ratings": 4.8
+    },
+    {
+      "name": "Sennheiser Momentum True Wireless 2",
+      "price": 279,
+      "description": "The Sennheiser Momentum True Wireless 2 provides premium sound, sleek design, and effective noise isolation.",
+      "ratings": 4.6
+    },
+    {
+      "name": "Beats Studio Buds",
+      "price": 149,
+      "description": "The Beats Studio Buds offer excellent sound quality, compact design, and seamless integration with Apple devices.",
+      "ratings": 4.4
+    },
+    {
+      "name": "Samsung Galaxy Buds Pro",
+      "price": 199,
+      "description": "The Samsung Galaxy Buds Pro deliver impressive audio, active noise cancellation, and long battery life.",
+      "ratings": 4.3
+    },
+    {
+      "name": "JBL Free X",
+      "price": 99,
+      "description": "The JBL Free X provides reliable wireless connectivity, good sound quality, and a comfortable fit.",
+      "ratings": 4.2
+    },
+    {
+      "name": "Anker Soundcore Liberty Air 2 Pro",
+      "price": 129,
+      "description": "The Anker Soundcore Liberty Air 2 Pro offers customizable sound, solid battery life, and an affordable price.",
+      "ratings": 4.5
+    },
+    {
+      "name": "Razer Hammerhead True Wireless Pro",
+      "price": 199,
+      "description": "The Razer Hammerhead True Wireless Pro features THX-certified audio, active noise cancellation, and low-latency gaming mode.",
+      "ratings": 4.4
+    }
+  ]
+  

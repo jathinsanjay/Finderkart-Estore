@@ -1,0 +1,62 @@
+
+  [
+    {
+      "name": "Apple MacBook Pro",
+      "price": 1999,
+      "description": "The Apple MacBook Pro offers powerful performance, a high-resolution display, and an elegant design, making it ideal for professional use.",
+      "ratings": 4.8
+    },
+    {
+      "name": "Dell XPS 13",
+      "price": 1399,
+      "description": "The Dell XPS 13 features a slim and lightweight design, a borderless display, and excellent battery life.",
+      "ratings": 4.7
+    },
+    {
+      "name": "HP Spectre x360",
+      "price": 1299,
+      "description": "The HP Spectre x360 combines a convertible design, powerful performance, and a vivid touchscreen display.",
+      "ratings": 4.6
+    },
+    {
+      "name": "Lenovo ThinkPad X1 Carbon",
+      "price": 1499,
+      "description": "The Lenovo ThinkPad X1 Carbon is a business-class laptop with a durable build, impressive performance, and a comfortable keyboard.",
+      "ratings": 4.5
+    },
+    {
+      "name": "ASUS ROG Zephyrus G14",
+      "price": 1499,
+      "description": "The ASUS ROG Zephyrus G14 is a gaming laptop with a powerful processor, dedicated graphics, and a high-refresh-rate display.",
+      "ratings": 4.4
+    },
+    {
+      "name": "Microsoft Surface Laptop 4",
+      "price": 1299,
+      "description": "The Microsoft Surface Laptop 4 offers a sleek design, smooth performance, and a vibrant PixelSense touchscreen display.",
+      "ratings": 4.6
+    },
+    {
+      "name": "Acer Swift 3",
+      "price": 699,
+      "description": "The Acer Swift 3 is a budget-friendly laptop with a lightweight design, long battery life, and decent performance.",
+      "ratings": 4.3
+    },
+    {
+      "name": "Razer Blade 15",
+      "price": 1799,
+      "description": "The Razer Blade 15 is a gaming laptop with a sleek aluminum chassis, powerful graphics, and a high-refresh-rate display.",
+      "ratings": 4.7
+    },
+    {
+      "name": "LG Gram 17",
+      "price": 1599,
+      "description": "The LG Gram 17 is an ultralight laptop with a large display, long battery life, and solid performance.",
+      "ratings": 4.4
+    },
+    {
+      "name": "Alienware m15 R4",
+      "price": 2499,
+      "description": "The Alienware m15 R4 is a high-performance gaming laptop with top-of-the-line specifications and immersive graphics.",
+      "ratings": 4.8
+    }  ]

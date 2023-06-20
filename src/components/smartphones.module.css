@@ -1,0 +1,14 @@
+.products{
+   
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    margin: 0px 0px;
+}
+@media only screen and (max-width: 768px){
+    .products{
+        width: 200%;
+    }
+}

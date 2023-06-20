@@ -1,0 +1,63 @@
+[
+    {
+      "name": "Samsung Galaxy S21",
+      "price": 999,
+      "description": "The Samsung Galaxy S21 is a powerful flagship smartphone with a stunning display and top-of-the-line features.",
+      "ratings": 4.5
+    },
+    {
+      "name": "iPhone 12 Pro",
+      "price": 1099,
+      "description": "The iPhone 12 Pro offers a seamless user experience with its advanced camera system and fast performance.",
+      "ratings": 4.8
+    },
+    {
+      "name": "Google Pixel 6",
+      "price": 799,
+      "description": "The Google Pixel 6 features a superb camera, clean Android experience, and impressive AI capabilities.",
+      "ratings": 4.6
+    },
+    {
+      "name": "OnePlus 9 Pro",
+      "price": 899,
+      "description": "The OnePlus 9 Pro delivers an exceptional display, fast charging, and a smooth user interface.",
+      "ratings": 4.7
+    },
+    {
+      "name": "Xiaomi Mi 11 Ultra",
+      "price": 1199,
+      "description": "The Xiaomi Mi 11 Ultra boasts a powerful camera system, a large display, and long-lasting battery life.",
+      "ratings": 4.4
+    },
+    {
+      "name": "Sony Xperia 1 III",
+      "price": 1299,
+      "description": "The Sony Xperia 1 III features a stunning 4K display, excellent camera capabilities, and robust performance.",
+      "ratings": 4.8
+    },
+    {
+      "name": "LG Wing",
+      "price": 699,
+      "description": "The LG Wing offers a unique swivel design, dual screens, and versatile multitasking capabilities.",
+      "ratings": 4.3
+    },
+    {
+      "name": "Motorola Edge Plus",
+      "price": 999,
+      "description": "The Motorola Edge Plus combines a powerful processor, a curved display, and a large battery for an excellent overall experience.",
+      "ratings": 4.5
+    },
+    {
+      "name": "Huawei P40 Pro",
+      "price": 899,
+      "description": "The Huawei P40 Pro features a versatile camera system, a beautiful display, and impressive performance.",
+      "ratings": 4.3
+    },
+    {
+      "name": "Oppo Find X3 Pro",
+      "price": 1099,
+      "description": "The Oppo Find X3 Pro offers a vibrant display, powerful camera capabilities, and fast charging.",
+      "ratings": 4.6
+    }
+  ]
+  

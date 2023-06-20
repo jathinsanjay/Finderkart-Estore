@@ -1,0 +1,64 @@
+[
+    {
+      "name": "Anker PowerCore 10000",
+      "price": 29.99,
+      "description": "The Anker PowerCore 10000 is a compact portable charger with a high-capacity battery, perfect for charging your devices on the go.",
+      "ratings": 4.4
+    },
+    {
+      "name": "Spigen Ultra Hybrid Case",
+      "price": 12.99,
+      "description": "The Spigen Ultra Hybrid Case offers excellent protection for your smartphone while maintaining a slim profile.",
+      "ratings": 4.7
+    },
+    {
+      "name": "PopSockets PopGrip",
+      "price": 9.99,
+      "description": "The PopSockets PopGrip provides a secure grip for your phone, doubles as a stand, and comes in various stylish designs.",
+      "ratings": 4.6
+    },
+    {
+      "name": "Samsung Wireless Charger Pad",
+      "price": 39.99,
+      "description": "The Samsung Wireless Charger Pad allows you to charge your compatible devices without the need for cables.",
+      "ratings": 4.5
+    },
+    {
+      "name": "Tile Mate",
+      "price": 24.99,
+      "description": "The Tile Mate is a compact Bluetooth tracker that helps you find your misplaced items with ease.",
+      "ratings": 4.3
+    },
+    {
+      "name": "Belkin Boost Up Wireless Charging Stand",
+      "price": 49.99,
+      "description": "The Belkin Boost Up Wireless Charging Stand provides convenient wireless charging for your smartphone in a stylish design.",
+      "ratings": 4.6
+    },
+    {
+      "name": "Aukey Car Phone Mount",
+      "price": 19.99,
+      "description": "The Aukey Car Phone Mount securely holds your phone in place while driving, ensuring easy navigation and hands-free use.",
+      "ratings": 4.4
+    },
+    {
+      "name": "Anker PowerLine+ Lightning Cable",
+      "price": 15.99,
+      "description": "The Anker PowerLine+ Lightning Cable offers durability and fast charging capabilities for your iPhone or iPad.",
+      "ratings": 4.5
+    },
+    {
+      "name": "AmazonBasics Portable Foldable Photo Studio Box",
+      "price": 139.99,
+      "description": "The AmazonBasics Portable Foldable Photo Studio Box provides a convenient setup for product photography with built-in LED lights.",
+      "ratings": 4.2
+    },
+    {
+      "name": "Mophie Juice Pack Access",
+      "price": 79.95,
+      "description": "The Mophie Juice Pack Access is a protective case with a built-in battery pack, extending your phone's battery life on the go.",
+      "ratings": 4.3
+    }
+  ]
+  
+  

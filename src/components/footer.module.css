@@ -1,0 +1,14 @@
+
+.brandslogo{
+    position: relative;
+    top: 4px;
+    right: 4px;
+    color: #000000;
+}
+@media screen and (max-width: 768px) {
+    footer{
+        width: 200%;
+        text-align: center;
+        
+    }
+}

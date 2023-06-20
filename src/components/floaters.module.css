@@ -1,0 +1,49 @@
+.box{
+    width: 92%;
+    margin: 0px auto;
+    border: 2px solid #cbc3c3;
+    height: 45%;
+    background-image: url(../imgs/poster1.jpg);
+    background-size: cover;
+    border-radius: 20px;
+}
+.floatertext{
+   position: absolute;
+    top: 20%;
+    left: 34%;
+    
+    color: black;
+    font-size: 43px;
+    font-weight: bold;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buynow{
+    background-color: rgb(255 186 0);
+    color: white;
+    position: relative;
+    top: 81%;
+    padding: 15px;
+    left: 50%;
+    border-radius: 10px;
+    
+}
+@media only screen and (max-width: 768px){
+    .floatertext{
+        font-size: 26px;
+        position: relative;
+        top: 11px;
+        left: 72px;
+    
+    }
+    .box{
+        height: 38vh;
+        width: 170vw;
+        margin: 65px;
+    }
+    .buynow{
+        top: 70%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+    }
+}
